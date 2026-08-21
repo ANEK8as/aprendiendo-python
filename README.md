@@ -18,6 +18,15 @@ Temas cubiertos: variables y tipos de datos, condicionales (`if`/`elif`/`else`),
 
 **Prácticas sueltas:** `variables.py`, `loops.py`, `while_loop.py`, `funciones.py`, `promedio.py`, `hola.py` — ejercicios individuales de cada tema mientras iba aprendiendo.
 
+### Semana 2 — Estructuras de datos
+
+Temas cubiertos: listas a fondo (índices, slicing, modificar y quitar elementos), diccionarios (acceso por clave, modificar, agregar, recorrer con `for` y `.items()`), tuplas, sets, y la construcción `for...else`.
+
+**Proyecto:**
+- **`agenda_de_contactos.py`** — Agenda de contactos. Permite agregar contactos (nombre, teléfono y correo, guardados como diccionarios dentro de una lista), buscar uno por nombre, listar todos los contactos, y salir. Usa `for...else` para manejar el caso de "contacto no encontrado" en la búsqueda.
+
+**Prácticas sueltas:** ejercicios individuales de listas avanzadas, diccionarios, tuplas y sets.
+
 ## Sobre mí
 
 Estudiante de 3er semestre de Ingeniería en Sistemas, aprendiendo Python para desarrollarme en backend.
